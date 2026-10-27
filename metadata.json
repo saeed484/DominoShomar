@@ -1,0 +1,6 @@
+{
+  "name": "دومینو اسکور | ثبت امتیاز حرفه‌ای",
+  "description": "برنامه هوشمند و شیک ثبت امتیازات بازی دومینو برای دو تیم ۲ نفره با قوانین بربوک، حالت‌های امتیازی و ترکیبی، آمار، رکوردها و کارنامه بازیکنان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
