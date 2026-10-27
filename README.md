@@ -1,1 +1,1 @@
-https://domino=shomar.ai.studio
+https://domino-shomar.ai.studio
